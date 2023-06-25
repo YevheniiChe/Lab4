@@ -2,7 +2,7 @@ Resources:
           MyBucket:
             Type: 'AWS::S3::Bucket'
             Properties:
-              BucketName: my-bucketlab4che
+              BucketName: my-bucketlab444che
               PublicAccessBlockConfiguration:
                 BlockPublicAcls: false
                 BlockPublicPolicy: false
